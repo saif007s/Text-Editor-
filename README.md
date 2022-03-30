@@ -12,7 +12,7 @@ This is its Icon.
  
  
  
- 
+![interface](https://user-images.githubusercontent.com/74663611/160858547-afb7edea-f545-498a-a62e-0ab7ab272ea5.png)
  
  
  
@@ -27,12 +27,27 @@ This is its Icon.
  You can see that you can change the Style and Size of your font and You can make Font Bold, Italic and Underline and You can Also Change Color of Your Font.
  
  
+ ![bold](https://user-images.githubusercontent.com/74663611/160858601-e5b506b4-765d-466a-9a8f-52568e1a284f.png)
+
  
  
  
  
  
  
+ 
+ ![u](https://user-images.githubusercontent.com/74663611/160858701-ff815587-ac9e-45dc-b9e2-7c6fc66104ff.png)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ![i](https://user-images.githubusercontent.com/74663611/160858758-92c9c206-82b4-4ebe-a916-72448443eee3.png)
+
  
  
  
@@ -40,6 +55,21 @@ This is its Icon.
  
  
  
+ ![right](https://user-images.githubusercontent.com/74663611/160858904-9bf5356c-91f3-4747-b700-ac3365d5606a.png)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ![center](https://user-images.githubusercontent.com/74663611/160858978-ad4c5516-da12-4eb8-b0e5-bc8f6694d85f.png)
+
+ 
+ 
+ ![bold](https://user-images.githubusercontent.com/74663611/160859087-bedd6f72-5dac-4597-9a6b-552d781911c3.png)
+
  
  
  
@@ -51,7 +81,8 @@ This is its Icon.
  
  
  
- 
+ ![bc](https://user-images.githubusercontent.com/74663611/160859130-fccd930c-8903-4f79-9923-90153f49770c.png)
+
  
  
  
