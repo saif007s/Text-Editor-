@@ -1,4 +1,4 @@
-                                                     This is a Text Editor Application.
+                                            This is a Text Editor Application.
  
  
 This is its Icon.
@@ -105,10 +105,12 @@ This is its Icon.
  
  
  
+![find](https://user-images.githubusercontent.com/74663611/161122741-8bc4bc2a-de91-44ed-8a05-23dc43f628e2.png)
 
  
  
- 
+ ![re](https://user-images.githubusercontent.com/74663611/161122829-458e7fdf-15ca-4946-ac7d-c8f0533f235b.png)
+
  
  
  
@@ -117,6 +119,13 @@ This is its Icon.
  
  
   You can Hide Your ToolBar.
+ 
+ ![sts](https://user-images.githubusercontent.com/74663611/161122880-f363f628-a732-431f-94d3-dbbf7de3ba45.png)
+
+
+
+![dd](https://user-images.githubusercontent.com/74663611/161122925-dfd37483-4fb2-4dde-a894-1a2368024c48.png)
+
  
  
  
