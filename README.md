@@ -143,6 +143,11 @@ This is its Icon.
  
  
  Application Name :- Text Editor.
+ 
+ 
+ 
+ 
+ 
  Application Version :- 1.0
  
  
