@@ -6,7 +6,7 @@ This is its Icon.
  
  ![notepad](https://user-images.githubusercontent.com/74663611/160841252-d8e6d32a-38be-4f34-afda-bd3327d5329f.png)
  
- It is very esay to use. Its Interface is very simple and anyone can use it easily. Or Any Opeating System Can Run.
+ It is very easy to use. Its Interface is very simple and anyone can use it easily. Or Any Operating System Can Run.
  
  Its Interface Looks like this.
  
